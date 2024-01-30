@@ -85,7 +85,7 @@
     "eslint-config-prettier": "^9.1.0",
     "fast-uri": "^2.1.0",
     "glob": "^10.3.10",
-    "husky": "^8.0.2",
+    "husky": "^9.0.7",
     "if-node-version": "^1.0.0",
     "jimp": "^0.22.10",
     "js-beautify": "^1.7.3",
